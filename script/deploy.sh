@@ -1,1 +1,1 @@
-faas-cli deploy -f function.yml
+fn deploy --app goboilerplates --local

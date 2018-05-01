@@ -1,3 +1,3 @@
 export FN_REGISTRY=goboilerplates
 
-fn run
+fn --verbose run
