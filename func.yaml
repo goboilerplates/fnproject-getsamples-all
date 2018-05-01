@@ -1,4 +1,4 @@
-name: fnproject-getsamples-allbyname
+name: fnproject-getsamples-all
 version: 0.0.0
 runtime: go
 entrypoint: ./func
