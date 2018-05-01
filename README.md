@@ -1,0 +1,1 @@
+# Boilerplate for GetSamplesAll FnProject Function in Go
